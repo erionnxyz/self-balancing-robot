@@ -1,7 +1,7 @@
 # Self-Balancing Robot (EE 449/449L Capstone, Fall 2026)
 
-Capstone project for EE 449/449L at the University of Scranton, Department of Physics and Engineering.
-Team 8: Erion Kraja and Yoshihiko Matsui.
+Capstone project for EE 449/449L
+Team 8: Erion and Yoshi.
 
 The project began as a two-wheeled self-balancing robot. It now centers on a **reaction-wheel balancer**:
 a single heavy reaction wheel balances a triangular frame on one axis. The first goal is vertical
